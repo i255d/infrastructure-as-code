@@ -1,0 +1,12 @@
+[submodule "configuration"]
+	path = configuration
+	url = https://github.com/i255d/configuration.git
+[submodule "environment"]
+	path = environment
+	url = https://github.com/i255d/environment.git
+[submodule "execution"]
+	path = execution
+	url = https://github.com/i255d/execution.git
+[submodule "provisioning"]
+	path = provisioning
+	url = https://github.com/i255d/provisioning.git
